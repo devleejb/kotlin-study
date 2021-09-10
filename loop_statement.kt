@@ -17,6 +17,6 @@ fun main() {
 
     // 인덱스와 실제 데이터를 함께 가져옴
     for ((index, value) in data.withIndex()) {
-        
+
     }
 }
