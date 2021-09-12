@@ -15,5 +15,13 @@
 - [override](override.kt)
 - [visibility modifier](visibility_modifier.kt)
 - [data class](data_class.kt)
-- [companion_class](companion_class.kt)
+- [companion class](companion_class.kt)
 - [object class](object_class.kt)
+- [lambda expression](lambda_expression.kt)
+- [high order function](high_order_function.kt)
+- [type_alias](type_alias.kt)
+- [null safety](null_safety.kt)
+
+## 기타 자료
+
+- [Notion 정리](https://distinct-bulb-c95.notion.site/22241909975447008739af578f8dd222)
