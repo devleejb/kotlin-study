@@ -1,9 +1,11 @@
 # About Repository
+
 본 저장소는 Kotlin을 공부하며 정리한 내용을 담고 있습니다.
 
 <br/>
 
 ## 소스코드
+
 - [variable](variable.kt)
 - [data_type](data_type.kt)
 - [collection type](collection_type.kt)
@@ -24,4 +26,4 @@
 
 ## 기타 자료
 
-- [Notion 정리](https://distinct-bulb-c95.notion.site/22241909975447008739af578f8dd222)
+- [Notion 정리](https://devleejb.notion.site/Kotlin-e85432882ecf4ecd8d67c69a0e199396?pvs=4)
